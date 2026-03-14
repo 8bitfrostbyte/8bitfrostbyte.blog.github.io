@@ -27,7 +27,7 @@ defaults:
     shell: bash
 
 env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # Attempt to opt into Node.js 24
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: false # Attempt to opt into Node.js 24
   ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true  # Temporarily allow Node.js 20 to fix build failures
 
 jobs:
