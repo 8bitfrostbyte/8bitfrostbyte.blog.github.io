@@ -1,7 +1,7 @@
 +++
 title = "GameJam Day One: It Begins again"
 date = "2026-03-03"
-draft = true
+draft = false
 tags = ["gamejam"]
 categories = ["GameJam"]
 +++
